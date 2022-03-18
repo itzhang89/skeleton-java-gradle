@@ -3,7 +3,6 @@ plugins {
 }
 
 group 'top.ilovestudy'
-artifacts 'skeleton-java-gradle'
 version '1.0-SNAPSHOT'
 
 repositories {
